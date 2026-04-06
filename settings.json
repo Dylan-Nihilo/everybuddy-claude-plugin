@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "buddy cc-statusline --check 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}

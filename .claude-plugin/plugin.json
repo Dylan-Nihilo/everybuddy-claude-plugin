@@ -1,0 +1,11 @@
+{
+  "name": "everybuddy",
+  "description": "Gacha-hatched terminal companions in your Claude Code status bar.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dylan Thomas"
+  },
+  "homepage": "https://github.com/Dylan-Nihilo/everybuddy-claude-plugin",
+  "repository": "https://github.com/Dylan-Nihilo/everybuddy-claude-plugin",
+  "license": "MIT"
+}
